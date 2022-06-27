@@ -4,6 +4,6 @@
 
 🌱 제가 습득한 프로그램 언어는 C#, ASP, MSSQL, Python, Front Lan(HTML,CSS,Vynila Javascript), ReactJS 이고, ReactJS는 계속 진행중에 있습니다.
 
-📫 저를 알고 싶으시면 인스타그램 팔로우를 부탁드릴게요 "19__03.30" 또는 "marioverall.chun@gmail.com" 로 연락주세요.
+📫 인스타그램 "19__03.30" 팔로우를 부탁드릴게요. 
 
 😘 읽어주셔서 감사하고, 오늘 하루 행복하게 보내주세요!
