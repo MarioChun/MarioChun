@@ -8,7 +8,7 @@ I want to be a person who gives you new vibes. ✨
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-C#-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-C`#`-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-ASP-blueviolet"/>&nbsp  
   <img src="https://img.shields.io/badge/-MSSQL-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
