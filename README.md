@@ -1,9 +1,32 @@
-👋 안녕하세요, 현재 진행중인 개발자 Mario.Chun. 천호성 입니다.
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=%20Mario.Chun;&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
-👀 취미생활이 많은데, 저는 프로그램 지식을 알아가는걸 좋아하고, 활동적인걸 좋아합니다. 평소 꾸준하게 프로그램언어는 하루 한시간 이상 공부를 하고 있고 주말엔 캠핑, 또는 등산을 가곤하고 평일은 꾸준하게 헬스를 하고 있습니다 :)
 
-🌱 제가 습득한 프로그램 언어는 C#, ASP, MSSQL, Python, Front Lan(HTML,CSS,Vynila Javascript), ReactJS 이고, ReactJS는 계속 진행중에 있습니다.
+<h3 align="center"> 👋 Hello 👋 </h3>
+<p align="center">
+I'm Mario Chun, a growing developer. 🌱 <br>
+I want to be a person who gives you new vibes. ✨
+</p>
+<h3 align="center">📚 Technology Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-C#-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-ASP-blueviolet"/>&nbsp  
+  <img src="https://img.shields.io/badge/-MSSQL-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-HTML-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-CSS-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-VynilaJS-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-RactJS-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-MariaDB-yellowgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-Git-blue"/>&nbsp
+</p>
 
-📫 인스타그램 "19__03.30" 팔로우를 부탁드릴게요. 
+<h3 align="center">•••</h3>
 
-😘 읽어주셔서 감사하고, 오늘 하루 행복하게 보내주세요!
+<p align="center">
+  <a href="mailto:marioverall.chun@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
+  
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
+
